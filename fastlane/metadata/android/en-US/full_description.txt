@@ -1,0 +1,3 @@
+Describe what the app does for the person using it, in plain sentences.
+
+No ads, no analytics, no tracking.
