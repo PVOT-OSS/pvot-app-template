@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Saalim Quadri <danascape@gmail.com>
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="home_title">Items</string>
+    <string name="home_empty">No items yet</string>
+    <string name="home_add">Add item</string>
+    <string name="home_new_item">Item %1$d</string>
+    <string name="home_error_title">Couldn\'t load items</string>
+    <string name="home_error_message">Try again in a moment.</string>
+</resources>
